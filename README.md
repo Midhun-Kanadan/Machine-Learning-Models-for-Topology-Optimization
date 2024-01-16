@@ -28,19 +28,22 @@ The project demonstrates the effectiveness of ML models in topology optimization
 ![Tiny Neural Network](./Images/Tiny Neural Network.png)
 
 ## Results
+
+### Comparison of Output
 ![Comparison of output from the Encoder-Decoder model and the ground truth](./Images/Results.png)
 
-- Loss vs Epochs Plot
-1. **Encoder Decoder Model- Loss vs. Epochs Plot**
+### Loss vs Epochs Plot
+
+#### Encoder Decoder Model
 ![Encoder Decoder Model- Loss vs. Epochs Plot](./Images/Encoder%20Decoder%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
 
-2. **Smaller Model- Loss vs. Epochs Plot**
+#### Smaller Model
 ![Smaller Model- Loss vs. Epochs Plot](./Images/Smaller%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
 
-3. **Tiny Network Model- Loss vs. Epochs Plot**
+#### Tiny Network Model
 ![Tiny Network Model- Loss vs. Epochs Plot](./Images/Tiny%20Network%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
 
-- Loss vs Epochs for different learning rates
+### Loss vs Epochs for Different Learning Rates
 ![Training Loss vs. Epoch- Encoder Decoder Model](./Images/Training%20Loss%20vs.%20Epoch-%20Encoder%20Decoder%20Model.png)
 
 
