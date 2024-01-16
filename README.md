@@ -18,14 +18,26 @@ This project explores the integration of Machine Learning (ML) and Deep Learning
 The TOP dataset consists of solutions for 10,000 randomly generated scenarios on a 40×40 grid. It provides a detailed view of the optimization process over 100 iterations, ensuring a thorough understanding of topology optimization challenges.
 
 ![Dataset Image](./Images/top_dataset_pics.png)
+![100 iterations of a sample](./Images/100 iterations of a sample.png)
+
+## Neural Network Architecture
+The project demonstrates the effectiveness of ML models in topology optimization. Various architectures were used and evaluated, and their performances were compared in terms of optimization efficiency and accuracy.
+
+![Encoder-Decoder Net Model](./Images/Encoder-Decoder Net Model.png)
+![Smaller Network](./Images/Smaller Network.png)
+![Tiny Neural Network](./Images/Tiny Neural Network.png)
 
 ## Results
-The project demonstrates the effectiveness of ML models in topology optimization. Various architectures were evaluated, and their performances were compared in terms of optimization efficiency and accuracy.
+![Comparison of output from the Encoder-Decoder model and the ground truth](./Images/Results.png)
 
-![Results Graph](link-to-results-graph)
+- Loss vs Epochs Plot
+![Encoder Decoder Model- Loss vs. Epochs Plot](./Images/Encoder Decoder Model- Loss vs. Epochs Plot.png)
+![Smaller Model- Loss vs. Epochs Plot](./Images/Smaller Model- Loss vs. Epochs Plot.png)
+![Tiny Network Model- Loss vs. Epochs Plot](./Images/Tiny Network Model- Loss vs. Epochs Plot.png)
 
-## Installation and Usage
-Detailed instructions for installation and usage are provided. Users can replicate the study or adapt the models for their own topology optimization projects.
+- Loss vs Epochs for different learning rates
+![Training Loss vs. Epoch- Encoder Decoder Model](./Images/Training Loss vs. Epoch- Encoder Decoder Model.png)
+
 
 ## Contributions
 Contributions to this project are welcome. Please read the contribution guidelines before submitting your contributions.
