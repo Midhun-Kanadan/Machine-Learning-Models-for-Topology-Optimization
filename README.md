@@ -18,7 +18,9 @@ This project explores the integration of Machine Learning (ML) and Deep Learning
 The TOP dataset consists of solutions for 10,000 randomly generated scenarios on a 40×40 grid. It provides a detailed view of the optimization process over 100 iterations, ensuring a thorough understanding of topology optimization challenges.
 
 ![Dataset Image](./Images/top_dataset_pics.png)
-![100 iterations of a sample](./Images/100 iterations of a sample.png)
+
+#### 100 iterations of a sample
+![100 iterations of a sample](./Images/100%20iterations%20of%20a%20sample.png)
 
 ## Neural Network Architecture
 The project demonstrates the effectiveness of ML models in topology optimization. Various architectures were used and evaluated, and their performances were compared in terms of optimization efficiency and accuracy.
