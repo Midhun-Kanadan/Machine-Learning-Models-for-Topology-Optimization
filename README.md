@@ -31,8 +31,13 @@ The project demonstrates the effectiveness of ML models in topology optimization
 ![Comparison of output from the Encoder-Decoder model and the ground truth](./Images/Results.png)
 
 - Loss vs Epochs Plot
+1. **Encoder Decoder Model- Loss vs. Epochs Plot**
 ![Encoder Decoder Model- Loss vs. Epochs Plot](./Images/Encoder%20Decoder%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
+
+2. **Smaller Model- Loss vs. Epochs Plot**
 ![Smaller Model- Loss vs. Epochs Plot](./Images/Smaller%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
+
+3. **Tiny Network Model- Loss vs. Epochs Plot**
 ![Tiny Network Model- Loss vs. Epochs Plot](./Images/Tiny%20Network%20Model-%20Loss%20vs.%20Epochs%20Plot.png)
 
 - Loss vs Epochs for different learning rates
