@@ -25,9 +25,14 @@ The TOP dataset consists of solutions for 10,000 randomly generated scenarios on
 ## Neural Network Architecture
 The project demonstrates the effectiveness of ML models in topology optimization. Various architectures were used and evaluated, and their performances were compared in terms of optimization efficiency and accuracy.
 
-![Encoder-Decoder Net Model](./Images/Encoder-Decoder Net Model.png)
-![Smaller Network](./Images/Smaller Network.png)
-![Tiny Neural Network](./Images/Tiny Neural Network.png)
+#### Encoder Decoder Model
+![Encoder-Decoder Net Model](./Images/Encoder-Decoder%20Net%20Model.png)
+
+#### Smaller Model
+![Smaller Network](./Images/Smaller%20Network.png)
+
+#### Tiny Network Model
+![Tiny Neural Network](./Images/Tiny%20Neural%20Network.png)
 
 ## Results
 
